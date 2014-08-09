@@ -101,4 +101,8 @@ File Contents:
     /personal_vs_business_formality/
     
         This script was used in conjunction with Mallet's output from running against the 
-        University of Sheffield Personal vs. Business dataset to derive the resul
+        University of Sheffield Personal vs. Business dataset to derive the results
+        
+/enron_employee_positions/
+
+    Included here are positions and ranks from Diesner et al and some re-ranked positions that we performed in our work

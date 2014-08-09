@@ -1,0 +1,7 @@
+6 - CEO
+5 - President
+4 - VP
+3 - Managing Director
+2 - Director
+1 - Manager
+0 - Employee, N/A

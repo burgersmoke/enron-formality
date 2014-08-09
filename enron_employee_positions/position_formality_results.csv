@@ -1,0 +1,23 @@
+count(*),EffectiveLabel,Position
+1601,1,CEO
+627,2,CEO
+1308,1,Director
+758,2,Director
+20,1,Director of Trading
+3,2,Director of Trading
+14613,1,Employee
+6211,2,Employee
+1929,1,In House Lawyer
+179,2,In House Lawyer
+6010,1,Manager
+1348,2,Manager
+5878,1,Managing Director
+1269,2,Managing Director
+13851,1,N/A
+3645,2,N/A
+2210,1,President
+1191,2,President
+1503,1,Trader
+1083,2,Trader
+10745,1,Vice President
+3732,2,Vice President
