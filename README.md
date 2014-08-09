@@ -3,17 +3,28 @@ enron-formality
 
 ------------------------------------------------------
 Results for 'Email Formality in the Workplace: A Case Study on the Enron Corpus'
-URL for paper : http://aclweb.org/anthology-new/W/W11/W11-0711.pdf
-Kelly Peterson : kellypet@uw.edu
-Matt Hohensee : hohensee@uw.edu
-Fei Xia : fxia@uw.edu
+URL for paper
+http://aclweb.org/anthology-new/W/W11/W11-0711.pdf
+
+Kelly Peterson
+kellypet@uw.edu
+
+Matt Hohensee
+hohensee@uw.edu
+
+Fei Xia 
+fxia@uw.edu
+
 ------------------------------------------------------
+
 Data references : 
 ISI database : Retrieved December, 2010 from:
-	http://www.isi.edu/˜adibi/Enron/Enron.htm
+* http://www.isi.edu/˜adibi/Enron/Enron.htm
 University of Sheffield personal vs business annotations : Retrieved December, 2010 from:
-	http://staffwww.dcs.shef.ac.uk/people/L.Guthrie/nlp/research.htm
+* http://staffwww.dcs.shef.ac.uk/people/L.Guthrie/nlp/research.htm
+    
 ------------------------------------------------------
+
 File Contents:
 /README
 	Dearest reader, you are reading me as we speak
