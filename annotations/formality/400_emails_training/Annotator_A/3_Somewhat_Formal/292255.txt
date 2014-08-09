@@ -1,0 +1,51 @@
+Message-ID: <19885760.1075841062033.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 07:43:00 -0700 (PDT)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 4/5/01; HourAhead hour: 15;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-From: Schedule Crawler<pete.davis@enron.com>
+X-To: pete.davis@enron.com
+X-cc: bert.meyers@enron.com, bill.williams.III@enron.com, Craig.Dean@enron.com, dporter3@enron.com, Eric.Linder@enron.com, Geir.Solberg@enron.com, holden.salisbury@enron.com, jbryson@enron.com, leaf.harasin@enron.com, monika.causholli@enron.com, mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-bcc: 
+X-Folder: \eric linder 6-28-02\Notes Folders\Notes inbox
+X-Origin: LINDER-E
+X-FileName: eric linder 6-28-02.nsf
+
+Start Date: 4/5/01; HourAhead hour: 15;  No ancillary schedules awarded.  
+Variances detected.
+Variances detected in Generation schedule.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001040515.txt
+
+---- Generation Schedule ----
+$$$ Variance found in table tblGEN_SCHEDULE.
+     Details: (Hour: 15 / Preferred:  12.00 / Final:  13.00)
+  TRANS_TYPE: FINAL
+  SC_ID: Wheelabrat
+  MKT_TYPE: 2
+  TRANS_DATE: 4/5/01
+  UNIT_ID: MARTEL_2_AMFOR
+$$$ Variance found in table tblGEN_SCHEDULE.
+     Details: (Hour: 15 / Preferred:  29.00 / Final:  28.03)
+  TRANS_TYPE: FINAL
+  SC_ID: ARCO
+  MKT_TYPE: 2
+  TRANS_DATE: 4/5/01
+  UNIT_ID: CARBGN_6_UNIT 1
+

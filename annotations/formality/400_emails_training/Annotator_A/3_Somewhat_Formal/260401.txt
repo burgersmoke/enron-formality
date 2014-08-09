@@ -1,0 +1,54 @@
+Message-ID: <6449394.1075841889953.JavaMail.evans@thyme>
+Date: Tue, 30 Jan 2001 06:36:00 -0800 (PST)
+From: kate.symes@enron.com
+To: kerri.thompson@enron.com
+Subject: Re: apb checkout
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kate Symes
+X-To: Kerri Thompson
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Sent
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+These deals were in under Prebon - 509009/010 have been changed to APB.
+
+Tom does not recognize last deal.
+
+K
+
+
+
+
+Kerri Thompson@ENRON
+01/30/2001 02:33 PM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: apb checkout
+
+missing deals for tom a
+
+sell srp
+31st
+50 mw
+260.00
+pv
+
+sell sempra
+feb
+25 mw
+240.00
+sp-15
+
+buy sempra 
+feb
+25 mw
+245.00
+pv
+
+thanks
+

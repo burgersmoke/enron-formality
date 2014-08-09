@@ -1,0 +1,36 @@
+Message-ID: <18883255.1075840052698.JavaMail.evans@thyme>
+Date: Fri, 1 Feb 2002 13:15:50 -0800 (PST)
+From: heizenrader@attbi.com
+To: sean.crandall@enron.com
+Subject: Henwood Access
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: heizenrader@attbi.com
+X-To: Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCRANDA>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Crandall, Sean\Inbox
+X-Origin: CRANDELL-S
+X-FileName: 
+
+Sean,
+
+Here's the URL:
+
+     http://ebusiness.henwoodenergy.com
+
+Login Name: timmyh
+Password: humptydumpty
+
+(Never let Julie Sarnowski set up passwords for you)
+
+This will get you access to multiple Henwood services. 
+The one that gives the plant performance stats is 
+GenReporter, and you navigate it more or less the same 
+way that you use our plant database: dropdown lists 
+subset the plants by region, owner, type, etc. Once you 
+see a list of plants, click on unit name for more data.
+
+Please call if you have problems,
+Tim

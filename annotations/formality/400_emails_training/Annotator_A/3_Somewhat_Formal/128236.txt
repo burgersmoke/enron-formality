@@ -1,0 +1,78 @@
+Message-ID: <24403785.1075846350581.JavaMail.evans@thyme>
+Date: Fri, 1 Sep 2000 05:22:00 -0700 (PDT)
+From: bruno.gaillard@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	harry.kingerski@enron.com, paul.kaufman@enron.com, 
+	jeff.dasovich@enron.com, mona.petrochko@enron.com, 
+	susan.mara@enron.com, sandra.mccubbin@enron.com, 
+	thane.twiggs@enron.com
+Subject: Rate cap , Ratepayer relief and siting bills
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bruno Gaillard
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Harry Kingerski, Paul Kaufman, Jeff Dasovich, Mona L Petrochko, Susan J Mara, Sandra McCubbin, Thane Twiggs
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\Heat wave
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Summary of Davis/Alpert bill AB 260
+
+Retro-active to June 1, 2000 through December 31, 2002, 6.5 cent/kWh cap on 
+the energy component for residential and small commercial customers (under 
+100 kW).  The Commission has the ability to extend through 2003.  The 
+Commission also has the ability to adjust the cap.
+
+Commission can use revenues from utility-owned assets, refunds from FERC to 
+offset the undercollections.  (In addition, a companion bill was passed that 
+provides $150 million of general fund money to offset undercollections.)
+
+Large commercial/industrial/agricultural customers have an opportunity to 
+"opt-in" to the 6.5 cent/kWh cap with an annual true-up.
+
+SDG&E will under a prudence review by the CPUC, which may be another source 
+of funds to offset the undercollection.
+
+Specific classes subject to cap:
+
+  Schedule A, all acute care hospitals, all public and private k-12 schools, 
+all accounts on AL-TOU under 100 kW.
+
+Attached a link to the bill
+http://www.leginfo.ca.gov/pub/bill/asm/ab_0251-0300/ab_265_bill_20000830_enrol
+led.pdf
+
+
+Summary of the rate payer relief bill AB 1156 which would 
+Transfer of $150,000,000 from the general fund  to a subaccount within the 
+Special Fund for Economic Uncertainties.  
+Appropriate those funds from the subaccount, to the commission, to reduce the 
+adverse impact of high-cost wholesale energy purchases on certain ratepayers 
+if a specified rate ceiling is in effect, and if the commission determines 
+that a specified revenue shortfall would result in a ratepayer surcharge 
+greater than 10%, and the electricity rates were directly linked to Power 
+Exchange costs.  
+Declare that, on January 1, 2004, any remaining balance in the account would 
+revert to the General Fund.
+Become operative only if AB 265 is enacted, as specified.
+ Take effect immediately as an urgency statute.  
+Attached a link to the bill
+http://www.leginfo.ca.gov/pub/bill/asm/ab_1151-1200/ab_1156_bill_20000830_enro
+lled.pdf
+
+
+AB 970 Siting Bill.
+
+AB 970 passed last night. The final version has not been published yet. The 
+final version should only have an additional amendment relating to a Calpine 
+facility in San Jose for which expeditious treatment has not been granted. We 
+will produce a summary once the enrolled version is available, which should 
+be today or Tuesday at the latest. Bellow is the previous amended version of 
+the Sitting Bill.
+
+Attached a link to bill as amended on 8/7/00
+
+http://www.leginfo.ca.gov/pub/bill/asm/ab_0951-1000/ab_970_bill_20000807_amend
+ed_sen.pdf.pdf

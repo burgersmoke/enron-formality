@@ -1,0 +1,77 @@
+Message-ID: <25840007.1075850603166.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 07:47:00 -0700 (PDT)
+From: donna.fulton@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	christi.nicolay@enron.com, sarah.novosel@enron.com, 
+	ray.alvarez@enron.com, sscott3@enron.com, joe.connor@enron.com, 
+	dan.staines@enron.com, steve.montovano@enron.com, 
+	kevin.presto@enron.com, rogers.herndon@enron.com, 
+	mike.carson@enron.com, john.forney@enron.com, 
+	laura.podurgiel@enron.com, gretchen.lotz@enron.com, 
+	juan.hernandez@enron.com, miguel.garcia@enron.com, 
+	rudy.acevedo@enron.com, heather.kroll@enron.com, 
+	david.fairley@enron.com, elizabeth.johnston@enron.com, 
+	bill.rust@enron.com, edward.baughman@enron.com, 
+	terri.clynes@enron.com, oscar.dalton@enron.com, 
+	doug.sewell@enron.com, larry.valderrama@enron.com, 
+	nick.politis@enron.com, fletcher.sturm@enron.com, 
+	chris.dorland@enron.com, jeff.king@enron.com, john.kinser@enron.com, 
+	matt.lorenz@enron.com, patrick.hansen@enron.com, 
+	lloyd.will@enron.com, dduaran@enron.com, john.lavorato@enron.com, 
+	louise.kitchen@enron.com, greg.whalley@enron.com
+Subject: RTO Orders - Grid South, SE Trans, SPP and Entergy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donna Fulton
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Christi L Nicolay, Sarah Novosel, Ray Alvarez, sscott3@enron.com, Joe Connor, Dan Staines, Steve Montovano, Kevin M Presto, Rogers Herndon, Mike Carson, John M Forney, Laura Podurgiel, Gretchen Lotz, Juan Hernandez, Miguel L Garcia, Rudy Acevedo, Heather Kroll, David Fairley, Elizabeth Johnston, Bill Rust, Edward D Baughman, Terri Clynes, Oscar Dalton, Doug Sewell, Larry Valderrama, Nick Politis, Fletcher J Sturm, Chris Dorland, Jeff King, John Kinser, Matt Lorenz, Patrick Hansen, Lloyd Will, dduaran@enron.com, John J Lavorato, Louise Kitchen, Greg Whalley
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_5\Notes Folders\Rto
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+SK - I forwarded this to the group too.  mm 
+
+The Southeast RTO orders are out and have followed through with what we 
+expected from the discussion at the FERC meeting.
+
+The SPP and Entergy RTO proposals have been rejected because they fail to 
+satisfy the scope and configuration requirements of Order No. 2000.  The 
+Commission  notes that the required discussions between SPP and Entergy and 
+its neighboring RTO/TOs has led to no increase in the original scope and 
+configuration.  The filings by SPP and Entergy were brief, indicating only a 
+lack of interest by other RTOs or utilities in joining to enlarge scope; they 
+failed to specify any details of the talks, what changes could be made or 
+what could be fixed to accomodate combination with other RTOs.  The order 
+states that the Commission favors the development of large, regional 
+transmission organizations reflecting natural markets.  The Commission 
+indicates that they favor four RTOs - NE, SE, MW and West.  Therefore the 
+order requires the participants in SPP and Entergy to participate in 
+settlement discussions as set out in the mediation order.  Note that these 
+meetings will start next Tuesday, July 17 before a FERC ALJ.
+
+The Southern Company RTO is also found by the FERC to fail the scope 
+characteristics of Order No. 2000.  The order finds that Southern's approach 
+to focus on MOUs and seams issues with its neighbors is inadequate.  The 
+order states, "We reiterate: the Commission's goal is to have a single RTO in 
+the Southeast, and to have that single RTO operational as soon as possible."  
+The Commission recognizes that start-up costs in forming a larger RTO may be 
+more, but that over the longer term, large RTOs will foster market 
+development, will provide increased reliability and will result in lower 
+wholesale electricity prices.  The order therefore directs the parties to the 
+mediation as stated above.
+
+The Grid South participants are also directed to the mediation which is 
+starting on next Tuesday.  It is a lengthier order with more details on other 
+aspects of RTOs, including Independent Board requirement, congestion 
+managment, interconnection procedures, planning process and CBM.  Therefore, 
+I am attaching a summary of the order.  One of the important findings of the 
+order is that GridSouth is not sufficiently independent; the Applicant TOs 
+are making policy decisions that should be made by an independent board.  
+Therefore, the order requires GridSouth to install an independent board and 
+file a compliance filing within 90 days.
+
+If anyone wants copies of the orders, let me know.
+
+

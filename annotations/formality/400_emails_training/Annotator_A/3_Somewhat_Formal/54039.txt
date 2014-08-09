@@ -1,0 +1,75 @@
+Message-ID: <16497438.1075859548879.JavaMail.evans@thyme>
+Date: Tue, 14 Dec 1999 00:58:00 -0800 (PST)
+From: elizabeth.sager@enron.com
+To: leslie.hansen@enron.com, christi.nicolay@enron.com, david.portz@enron.com, 
+	jeffrey.hodge@enron.com, christian.yoder@enron.com, 
+	dana.davis@enron.com
+Subject: EEI Meeting on Dec. 15 Meeting - Product Definitions
+Cc: mark.haedicke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.haedicke@enron.com
+X-From: Elizabeth Sager
+X-To: Leslie Hansen, Christi L Nicolay, David Portz, Jeffrey T Hodge, Christian Yoder, Dana Davis
+X-cc: Mark E Haedicke
+X-bcc: 
+X-Folder: \Elizabeth_Sager_Dec2000\Notes Folders\Sent
+X-Origin: Sager-E
+X-FileName: esager.nsf
+
+Here are materials I recieved from EEI in anticipation of the EEI product 
+description meeting on Wed.   I would guess that the bulk of the meeting  
+will be spent on the "Into" definition, which draft was prepared by David and 
+myself, but we will also need to provide requested alterations to the other 
+product definitions (unit firm and system firm).  If you have any 
+questions/thoughts about the Into definiton, please call either David or me.  
+---------------------- Forwarded by Elizabeth Sager/HOU/ECT on 12/14/99 08:48 
+AM ---------------------------
+
+
+"Andy Katz" <AKatz@eei.org> on 12/10/99 05:29:45 PM
+Please respond to "Wholesale Electric Contract Standardization Group" 
+<contract@ls.eei.org>
+To: "Wholesale Electric Contract Standardization Group" <contract@ls.eei.org>
+cc:  (bcc: Elizabeth Sager/HOU/ECT)
+Subject: Agenda and Product Definitions for Dec. 15 Meeting
+
+
+
+Attached is the agenda and draft revised  definitions for the "into" and 
+"system reliability" products.  These files are in Rich Text Format.
+
+As part of our discussion of the product definitions, we will discuss the 
+effect of transmission curtailments on the parties' obligation to perform.  
+We want to focus on the words on the page in Schedule P.   If anyone thinks 
+the words on the page do not accurately reflect the business people's 
+understanding of the allocations of risk and responsibilities in trading that 
+product, please let them come to Houston with alternative WORDS that they 
+feel better reflect the business relationships that exist in the 
+marketplace.  The goal of the Houston meeting is to have  FINALIZED the 
+WORDS, so that the document is ready to present to the industry and FERC.
+
+We will convene at 10 am and adjourn at 4pm.  Lunch will be provided. 
+Dynegy's offices are located in Houston at 1000 Louisiana, Suite 5800.  If 
+you need directions or information about hotels, please contact Michelle 
+Cantu,  at Dynegy, 713/ 767-5981.
+
+If you plan to attend, please inform Patricia Young at EEI, 202/508-5757,  or 
+respond to this message by using your e-mail program's "ReplyTo" function by 
+COB MONDAY.  If you have any questions or concerns, you can reach Patricia at 
+202/508-5757 or Andy Katz at 202/508-5616.
+
+
+
+Andrew S. Katz, Senior Attorney
+Edison Electric Institute
+701 Pennsylvania Avenue, N.W.
+Washington, D.C.  20004
+Voice:  202-508-5616
+Fax:     202-508-5673
+e-mail:  akatz@eei.org
+
+ - EEI-NEMA AGENDA.rtf
+ - Into 4R.rtf
+ - 12071_v1.rtf

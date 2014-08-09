@@ -1,0 +1,31 @@
+Message-ID: <15046795.1075841965725.JavaMail.evans@thyme>
+Date: Fri, 1 Feb 2002 02:20:02 -0800 (PST)
+From: customerservice@industrialinfo.com
+To: d..thomas@enron.com
+Subject: Daily Outage Updates (excluding WSCC)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: customerservice@industrialinfo.com@ENRON
+X-To: Thomas, Paul D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTHOMAS2>, mailer@industrialinfo.com
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Thomas, Paul D.\Inbox
+X-Origin: THOMAS-P
+X-FileName: paul d thomas 6-26-02.PST
+
+Hello Paul Thomas,
+
+ This is an automated email delivery.  The following info is for
+ tracking purposes only:
+
+ Transaction: 0000204390
+ Fulfillment: 00203618*00002
+ Location   : 00007
+
+ Industrial Information Resources, Inc.
+ Customer Service Department
+ (713) 783-5147
+
+
+ - OUTAGE.dbf 

@@ -1,0 +1,36 @@
+Message-ID: <10823868.1075845349176.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 13:52:00 -0800 (PST)
+From: francis.lim@enron.com
+To: geoff.storey@enron.com
+Subject: NG Curves up to 20224
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Francis S Lim <Francis S Lim/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff,
+
+	Attached is yesterdays NG curves that goes out more than
+14 years. Is the curve that you talked to me about yesterday?
+If it is, this curve was entered by Dutch Quigley using curveload.
+
+ 
+Francis
+
+
+
+NOTES ONLY:
+the curves were generated using the query below:
+
+	select ref_period_dt,curve_amt
+	from egs_curves
+	where effective_dt = '26-mar-01'
+	and curve_cd = 'NG'
+	and curve_type_cd = 'PR'
+	order by ref_period_dt

@@ -1,0 +1,27 @@
+Message-ID: <6437461.1075841451354.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 09:24:40 -0700 (PDT)
+From: margie.nguyen@enron.com
+To: john.griffith@enron.com, mike.maggi@enron.com, john.disturnal@enron.com, 
+	jonathan.mckay@enron.com, dutch.quigley@enron.com, 
+	john.arnold@enron.com, larry.may@enron.com, lon.draper@enron.com, 
+	n..gilbert@enron.com, jeremy.wong@enron.com, sanjeev.gupta@enron.com
+Subject: VolSmile
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nguyen, Margie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNGUYEN4>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>, Disturnal, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdistur>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>, Draper, Lon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldraper>, Gilbert, George N. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggilber>, Wong, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwong1>, Gupta, Sanjeev </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgupta2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Quigley, Dutch\Fin Desk
+X-Origin: QUIGLEY-D
+X-FileName: dutch quigley 6-26-02.PST
+
+Hi All,
+
+I recently made a change to VolSmile.xls  to pick up the NT username versus the application(excel) username.  This change will not effect the functionalities of VolSmile.  I have deleted the User Name and Password in Sheets("Skew4"), since you will not need to enter a username/password.  The code will check your read/write access against your NT username.  Once again, the change will not effect any of VolSmile's original functionalilties.  Please refer to the attach file for usage.  If anyone has questions/comments concerning this change, please let me know.
+
+Margie
+53706
+
+ 

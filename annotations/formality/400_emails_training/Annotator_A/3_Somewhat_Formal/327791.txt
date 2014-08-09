@@ -1,0 +1,56 @@
+Message-ID: <3265689.1075840709587.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 13:38:00 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 3/8/01; HourAhead hour: 22;  <CODESITE>
+Cc: bert.meyers@enron.com, bill.williams.iii@enron.com, dporter3@enron.com, 
+	geir.solberg@enron.com, greg.wolfe@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bert.meyers@enron.com, bill.williams.iii@enron.com, dporter3@enron.com, 
+	geir.solberg@enron.com, greg.wolfe@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-From: Schedule Crawler<pete.davis@enron.com>
+X-To: pete.davis@enron.com
+X-cc: bert.meyers@enron.com, bill.williams.III@enron.com, dporter3@enron.com, Geir.Solberg@enron.com, Greg.Wolfe@enron.com, holden.salisbury@enron.com, jbryson@enron.com, leaf.harasin@enron.com, monika.causholli@enron.com, mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+X-bcc: 
+X-Folder: \mark guzman 6-28-02\Notes Folders\Notes inbox
+X-Origin: GUZMAN-M
+X-FileName: mark guzman 6-28-02.nsf
+
+Start Date: 3/8/01; HourAhead hour: 22;  No ancillary schedules awarded.  No 
+variances detected.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001030822.txt
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 3/8/01
+  TIE_POINT: PVERDE_5_DEVERS
+  INTERCHG_ID: EPMI_CISO_WATER
+  ENGY_TYPE: FIRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 3/8/01
+  TIE_POINT: FCORNR_5_PSUEDO
+  INTERCHG_ID: EPMI_CISO_BLAZERS
+  ENGY_TYPE: NFRM
+

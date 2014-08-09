@@ -1,0 +1,22 @@
+Subject: Start Date: 4/11/01; HourAhead hour: 14;  <CODESITE>
+********************************************
+
+Start Date: 4/11/01; HourAhead hour: 14;  No ancillary schedules awarded.
+Variances detected.
+Variances detected in Load schedule.
+
+LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final
+Schedules\2001041114.txt
+
+---- Load Schedule ----
+$$$ Variance found in table tblLoads.
+Details: (Hour: 14 / Preferred:   4.33 / Final:   4.32)
+TRANS_TYPE: FINAL
+LOAD_ID: SCE1
+MKT_TYPE: 2
+TRANS_DATE: 4/11/01
+SC_ID: EPMI
+
+

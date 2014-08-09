@@ -1,0 +1,42 @@
+Message-ID: <2410098.1075840034317.JavaMail.evans@thyme>
+Date: Mon, 14 Jan 2002 18:17:36 -0800 (PST)
+From: stephen.thome@enron.com
+To: tom.alonso@enron.com, serena.bishop@enron.com, chris.mallory@enron.com, 
+	jeff.richter@enron.com, matt.motley@enron.com, 
+	robert.badeer@enron.com, mike.swerzbin@enron.com
+Subject: FW: West contracts
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thome, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=STHOME>
+X-To: Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Talonso>, Bishop, Serena </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbishop3>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Motley, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmotley>, Badeer, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbadeer>, Swerzbin, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mswerzb>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Swerzbin, Mike\Inbox
+X-Origin: SWERZBIN-M
+X-FileName: 
+
+Please review these deal numbers with LADWP to determine if we should be delivering.  Houston lists us as having a $279k MTM position on an index deal (that seems counter intuitive unless we paid up front for some sort of basis swap, or they are gas-indexed). They apparently deliver at Mead 230 and Palo Verde.  Any light that can be shed on these would be helpful.
+
+Steve
+
+ -----Original Message-----
+From: 	Hiemstra, Nick  
+Sent:	Monday, January 14, 2002 2:06 PM
+To:	Thome, Stephen
+Cc:	Baughman, Edward
+Subject:	West contracts
+
+Steve,
+
+Ed asked me to send you the deal numbers for LA Water & Power.  They are index-forward deals that settle against different indices.  Please check into the deals and let us know if we need to be scheduling these.
+
+867350.01
+867350.02
+408250.01
+408250.02
+408250.03
+
+Thanks.
+
+- Nick

@@ -1,0 +1,110 @@
+Message-ID: <33054141.1075846360666.JavaMail.evans@thyme>
+Date: Fri, 8 Dec 2000 00:06:00 -0800 (PST)
+From: nicholas.o'day@enron.com
+To: steven.kean@enron.com, mark.schroeder@enron.com
+Subject: Japan website stats and additions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nicholas O'Day
+X-To: Steven J Kean, Mark Schroeder
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\Notes inbox
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I attach the latest stats for the website. We are still getting an average of 
+over 500 visitors per day, with an average stay of about 11 minutes.
+
+
+
+I also attach links to the proposed additions to the website for this month.
+
+We are adding two new educational sections describing risk management and 
+weather derivatives and a new calculator to give consumers an ability to 
+calculate how much their electricity costs will increase as fuel prices 
+increase. We have also improved the navigation around the site.
+
+A feature article comparing the dereg experience in the telecom sector and 
+the tactics used by the incumbent monopoly NTT with the electricity sector 
+will follow shortly.
+
+kind regards
+ 
+---------------------- Forwarded by Nicholas O'Day/AP/Enron on 12/08/2000 
+07:44 AM ---------------------------
+
+Mark Crowther
+
+12/07/2000 07:11 PM
+To: Joseph P Hirl/AP/ENRON@ENRON, Nicholas O'Day/AP/Enron@Enron, Jonathan 
+Whitehead/AP/Enron@Enron, Morten E Pettersen/AP/Enron@Enron
+cc: Llewelyn Hughes/AP/Enron@Enron 
+
+Subject: Website Changes
+
+This is a list of changes to the website which will go into production early 
+next week. The graphics in the text on the new pages are temporary to provide 
+an idea of content for the purpose of internal content review. In addition, 
+graphics for new links on the top page and a few features intended to improve 
+ease of use are currently under development and are represented by empty 
+boxes in the appropriate areas on screen. 
+
+I would be grateful if you would review the new pages for content and provide 
+feedback.
+
+After review, the Japanese text (almost complete) and graphics will be added 
+and the new graphics will be added for testing next Monday.
+
+1. New Fuel Price Adjustment Page  (Utilities are charging more from January 
+owing to rising fuel prices)
+http://dev.enron.co.jp/services/cost.asp (New Graphic link on home page)
+
+2. Fuel Price Adjustment Calculator (calculates extra fuel charge from 
+January 1 2000)
+http://dev.enron.co.jp/services/cost_calc.asp (Link from fuel adjustment 
+indicator graphic on home page)
+
+3. New paragraph introducing services with link to risk management
+http://dev.enron.co.jp/services/default.asp 
+
+4. Six new pages introducing risk management tools (develop understanding of 
+risk management)
+http://dev.enron.co.jp/services/risk.asp    (new text link (as in 1. above) 
+and graphic link in right column of services page)
+http://dev.enron.co.jp/services/risk.asp?pg=2
+http://dev.enron.co.jp/services/risk.asp?pg=3
+http://dev.enron.co.jp/services/risk.asp?pg=4
+http://dev.enron.co.jp/services/risk.asp?pg=5
+http://dev.enron.co.jp/services/risk.asp?pg=6
+
+5. Seven new pages introducing weather derivatives (promote weather 
+derivatives in Japanese market)
+http://dev.enron.co.jp/services/weather.asp?pg=2 (new text link from weather 
+top page)
+http://dev.enron.co.jp/services/weather.asp?pg=3
+http://dev.enron.co.jp/services/weather.asp?pg=4
+http://dev.enron.co.jp/services/weather.asp?pg=5
+http://dev.enron.co.jp/services/weather.asp?pg=6
+http://dev.enron.co.jp/services/weather.asp?pg=7
+http://dev.enron.co.jp/services/weather.asp?pg=8
+
+In addition, the following features will be amended or added.
+
+1. What's New page
+2. Alteration of design of benefits calculator (inclusion of volume units and 
+more compact design)
+2. Mailing List option on all contact pages
+3. New graphic navigation aid for longer articles to clarify link destination
+4. California article to be added to home page news ticker.
+
+A new article will also be added later next week on IT.
+
+Rather than updating at the end of the month in the future, we intend to 
+update at the beginning of the month in the future. In addition to these 
+changes, we welcome any comments are potential new content for the website.
+
+Regards
+Mark
+

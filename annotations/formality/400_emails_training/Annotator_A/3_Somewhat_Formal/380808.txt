@@ -1,0 +1,67 @@
+Message-ID: <20841733.1075855141317.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 12:39:22 -0700 (PDT)
+From: bobbi.kilburn@vynpc.com
+To: don.baughman@enron.com
+Subject: Vermont Yankee Pager Info Request.
+Cc: rivest@gmpvt.com, brownj@gmpvt.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rivest@gmpvt.com, brownj@gmpvt.com
+X-From: "Kilburn, Bobbi" <Bobbi.Kilburn@vynpc.com>@ENRON
+X-To: Baughman Jr., Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DBAUGHM>
+X-cc: 'GMP - AnnaBeth Rivest' <rivest@gmpvt.com>, 'GMP - Jim Brown' <brownj@gmpvt.com>
+X-bcc: 
+X-Folder: \Edward_Baughman_Jan2002\Baughman Jr., Don\Power\Vermont Yankee Nuke
+X-Origin: Baughman-E
+X-FileName: dbaughm (Non-Privileged).pst
+
+Don,
+
+Below is the information that I need from Arch Wireless to have Enron up and
+running on the pager system for Vermont Yankee.
+
+Contact Properties:
+Contact Name - I'm assuming that's going to be you.  If you are not going to
+be holding the pager at all times then we may want to have a generic contact
+name.
+Pager ID/Pin:	8774946661 (Please verify if I need to use all 10 digits -
+do I need hyphens?)
+Carrier Name:
+Phone Number:	This needs to be a 800 or 888 number.
+Max Characters: ?
+Service Type:	Alpha or Numeric
+Baud Rate:	?
+Settings:	?
+We use AirSource Pro Software and the modem settings are as follows:
+
+Gateway Telepath Modem
+Commands:	AT&F&K0&N0E0X4
+
+The modem commands are not carrier specific so I need the command string to
+be compatible with the following carriers:
+
+Rinkers
+CVC Paging
+Arch
+Contact
+
+The backup system we've put in place has the following modem settings:
+
+Gateway 2000 Telepath II Fax Modem
+AT&C1&D2&K0&M0&N1Q0V1
+
+I hope this helps regarding the information.  Hope it's not too
+overwhelming.
+Please contact me at (802) 258-4120 or via email if you have any questions.
+Thanks again for your help.  I'd like to have this up and runner by the end
+of next week.
+
+Take Care,
+
+Bobbi J. Kilburn
+Treasury & Risk Administrator
+Vermont Yankee Nuclear Power Corporation
+(802) 258-4120
+Bobbi.Kilburn@vynpc.com
+  

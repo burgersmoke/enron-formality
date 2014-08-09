@@ -1,0 +1,291 @@
+Message-ID: <8856966.1075853244003.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 07:35:00 -0700 (PDT)
+From: mmolland@brobeck.com
+To: mtuohey@velaw.com, apickens@gibbs-bruns.com, breasoner@gibbs-bruns.com, 
+	djn@pkns.com, dcastro@pkns.com, jfrizzell@gibbs-bruns.com, 
+	jalexander@gibbs-bruns.com, pmeringolo@brobeck.com, mlk@pkns.com, 
+	msmith1@enron.com, richard.b.sanders@enron.com, gfergus@brobeck.com, 
+	sbishop@gibbs-bruns.com, robert.c.williams@enron.com, 
+	aruby@rubyschofield.com, meltzerlaw@aol.com, arguedas@caclaw.net, 
+	andrew.edison@renron.com
+Subject: Memorandum concerning subpoena power of California legislative co
+ mmittee
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Molland, Michael E." <MMolland@brobeck.com>
+X-To: "'mtuohey@velaw.com'" <mtuohey@velaw.com>, "'apickens@gibbs-bruns.com'" <apickens@gibbs-bruns.com>, "'breasoner@gibbs-bruns.com'" <breasoner@gibbs-bruns.com>, "'djn@pkns.com'" <djn@pkns.com>, "'dcastro@pkns.com'" <dcastro@pkns.com>, "'jfrizzell@gibbs-bruns.com'" <jfrizzell@gibbs-bruns.com>, "'jalexander@gibbs-bruns.com'" <jalexander@gibbs-bruns.com>, "Meringolo, Peter" <PMeringolo@brobeck.com>, "'mlk@pkns.com'" <mlk@pkns.com>, "'msmith1@enron.com'" <msmith1@enron.com>, "'richard.b.sanders@enron.com'" <richard.b.sanders@enron.com>, "Fergus, Gary S." <GFergus@brobeck.com>, "'sbishop@gibbs-bruns.com'" <sbishop@gibbs-bruns.com>, "'robert.c.williams@enron.com'" <robert.c.williams@enron.com>, "'aruby@rubyschofield.com'" <aruby@rubyschofield.com>, "'meltzerlaw@aol.com'" <meltzerlaw@aol.com>, "'arguedas@caclaw.net'" <arguedas@caclaw.net>, "'andrew.edison@renron.com'" <andrew.edison@renron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Sanders_Oct2001\Notes Folders\Notes inbox
+X-Origin: Sanders-R
+X-FileName: rsanders.nsf
+
+ At our meeting in San Francisco yesterday a group of you asked we
+re-publish our memorandum regarding the subpoena power of California
+legislative committee. Here is a slightly edited version.
+
+
+
+1. What is the basis of a  Legislative Committee's Subpoena Power?
+
+Authority:   Government Code Section 9401, provides that "a subpoena
+requiring the attendance of any witness before the Senate, Assembly, or a
+committee may be issued by the President of the Senate, Speaker of the
+Assembly, or the chairman of any committee before whom the attendance of the
+witness is desired if permission has been secured from the rules committee
+of the respective house."
+
+Govt. Code Section 9402 provides that a subpoena is sufficient if it "(a)
+states whether the proceeding is before the Senate, Assembly or a committee.
+(b) is addressed to the witness [presumably the custodian of records when
+documents are sought]. (c) requires the attendance of the witness at a time
+and place certain and (d) is signed by the President of the Senate, Speaker
+of the Assembly or chairman of the committee before whom attendance of the
+witness is desired."
+
+Contempt Power:  If the witness does not appear or refuses to testify or
+"neglects or refuses ... to produce upon reasonable notice any material and
+proper books, papers or document sin his possession or under his control, he
+has committed a contempt."  Govt. Code Section 9405.   If the contempt is
+committed while the Legislature is in session, Govt. Code Section 9407
+provides that the committee shall report the contempt to the Senate or
+Assembly "for such action as may be deemed necessary by the Senate or
+Assembly."  If the Legislature is not in session, "the superior court in and
+for the county in which any inquiry, investigation hearing or proceeding
+[is] held ... may compel the ... production of books, papers, documents and
+accounts, as required by the subpoena issued by the committee, on the filing
+by the committee of a petition to the court asking that the witness be so
+compelled."
+
+Govt. Code Section 9409 provides that "any witness neglecting or refusing to
+attend in obedience to subpoena may be arrested...."  It is unclear how this
+provision would or could be applied to a subpoena issued to the custodian of
+records of a non-resident company.
+
+Motion to Quash Subpoena: California courts have held, under C.C.P. Section
+1985, that a motion to quash is the procedurally appropriate method of
+testing the validity of a subpoena duces tecum.  See e.g. People ex rel.
+Dept. of Public Works v. Younger (1970) 5 Cal.App.3d 575.  My research has
+revealed no case in which a subpoena issued by a legislative committee has
+been challenged by a motion to quash, but, as noted above, there appear to
+be only a very few cases interpreting Govt. Code 9401 et seq.   Therefore,
+it appears that a superior court may be able to grant a motion to quash a
+subpoena issued by a legislative committee (assuming that we want to take
+the risk of state court jurisdiction).
+
+In one early case, the Court of Appeal held that the contempt order and
+accompanying affidavit issued by the Court upon the request of a Senate
+Committee were fatally defective.  Ex Parte McLain (1950) 99 Cal.App.2d 274.
+In McLain, the Senate Interim Committee on Social Welfare served upon Mr.
+McLain, the Chairman of the Board of Trustees of a corporation a subpoena
+calling for the production of various books, papers and documents.  Mr.
+McLain appeared before the committee but refused to answer questions or
+produce the documents.  Upon representation of the Committee, the Superior
+Court issued an order directing Mr. McLain to produce the documents.  Mr.
+McLain again appeared before the Committee and again refused to produce the
+documents at which point, an affidavit was filed in Superior Court stating:
+
+"That, based upon evidence in its possession, the said Senate Interim
+Committee has determined that each of the books, papers, and documents
+specified in said subpoena duces tecum is material to the matters now under
+investigation by the said Senate Interim Committee, and the production of
+such books, papers and documents is necessary in order to enable said Senate
+Interim Committee properly to perform the duties imposed upon it and to
+report to the Senate of the State of California pursuant to said Senate
+Resolution No. 162." and "That each of the books, papers and documents
+specified in said subpoena duces tecum is material to the matters now under
+investigation by the said Senate Interim Committee and that the production
+of such books, papers and documents is necessary in order to enable said
+Senate Interim Committee properly to perform the duties imposed upon it and
+to report to the Senate of the State of California pursuant to said Senate
+Resolution No. 162."
+
+The Superior Court found Mr. McLain guilty of contempt and ordered him
+committed to the sheriff until he produced the records.  The Court of
+Appeals found that the order and affidavit were defective because "a witness
+who is otherwise orderly and respectful cannot be adjudged guilty of
+contempt unless the order affirmatively sets forth the materiality and
+pertinency of the books and papers called for.  In cases of constructive
+contempt, as is this, not only the order but also the affidavit upon which
+it is based must sufficiently charge the alleged facts constituting the
+offense."  McLain at 276.
+
+This holding appears to be somewhat consistent with cases interpreting
+C.C.P. 1985, which hold that the subpoena and affidavits must allege
+material facts rather than conclusory statements.  See e.g. Grannis v. Board
+of Medical Examiners (1971) 19 Cal.App.3d 551.
+
+However, cases interpreting C.C.P. 1985 also require the subpoena to
+demonstrate a level of specificity, materiality and relevance to be held
+proper.  See e.g. Pacific Auto Ins. Co. v. Superior Court (1969) 273
+Cal.App.2d 61.  It is unclear, but arguable that subpoenas issued by
+legislative committees will be held to this same standard.
+
+
+2.  What is the likely impact of a legislative committee subpoena issued
+against Enron for out-of-state Enron documents?
+
+
+ There is little case law interpreting Govt. Code 9401 et seq. and the Govt.
+Code reporters cross reference to the Code of Civil Procedure Sections on
+issuance of subpoenas (C.C.P. 1985, et seq.).  Therefore, it is likely that
+the provisions of both the Govt. Code and the C.C.P. will govern the
+issuance and enforceability of a subpoena issued by a legislative committee.
+Accordingly we use these provisions to analyze this question.
+
+
+ (a)  Subpoenas against out-of-state residents under C.C.P. 1985 et
+seq.
+
+C.C.P. 1989 is entitled "Residency requirements for attendance of witnesses"
+and provides that "A witness, including a witness specified in subdivision
+(b) of Section 1987, is not obliged to attend as a witness before any court,
+judge, justice or any other officer, unless the witness is a resident within
+the state at the time of service."
+
+However, there is a statutory limitation on the residency requirement
+imposed by Section 1989.  Section 1987.3 provides "[w]hen a subpoena duces
+tecum is served upon a custodian of records or other qualified witness as
+provided in Article 4 (commencing with Section 1560) of Chapter 2 of
+Division 11 of the Evidence Code, and his personal attendance is not
+required by the terms of the subpoena, Section 1989 shall not apply."
+(Evade. Code 1650 lays out the terms for compliance with a subpoena for
+business records where the business is "neither a party nor the place where
+any cause of action is alleged to have arisen.")
+
+On commentator noted the following with respect to C.C.P. 1987.3:
+
+"The rule limiting subpoenas to California "residents" (C.C.P. 1989) does
+not apply to a subpoena duces tecum served on custodians of records unless
+their personal attendance is required. See C.C.P. 1987.3; Amoco Chem. Co. v.
+Certain Underwriters at Lloyd's of London (1995) 34 Cal.App.4th 554, 561 fn.
+9.  Thus, a nonresident custodian of business records may be required to
+respond to a subpoena duces tecum served upon him or her while present in
+California, by producing the records in accordance with Cal. Evid. Code 1560
+(delivering copies of the records and accompanying affidavit to the court
+clerk)... [However], C.C.P. 1987.3 probably applies only where the
+nonresident custodian is employed by a business entity subject to California
+jurisdiction. Otherwise, there would be no way for the court to enforce
+compliance with a subpoena served on a nonresident.  See Amoco Chem. Co. v.
+Certain Underwriters at Lloyd's of London, supra."
+
+Werner, Fairbanks & Epstein, Rutter Group, California Practice Guide: Civil
+Procedure & Trials at 1.57-58
+
+Moreover, in one unpublished case, Allee v. King (1988) 206 Cal.App.3d 1081,
+the court held that it lacked power to compel a nonresident defendant to
+produce original out-of-state documents at trial.  In so holding, the court
+stated that:
+
+"even though King apparently voluntarily attended the trial, his presence
+does not confer jurisdiction on the court to oblige him to deliver the
+out-of-state documents.   Although section 1989 uses the word "witness" and
+does not refer to documents, it has long been presumed under common law that
+documents in other states are outside the court's territorial jurisdiction,
+so that a court will allow the use of copies or other secondary evidence
+instead of originals.  (See, e.g., Heinz v. Heinz (1946) 73 Cal.App.2d 61,
+66, 165 P.2d 967, and cases cited therein.)   The recognition that
+out-of-state documents are not subject to the court's process is in
+conformity with the general rule under common law that, absent a statute
+properly conferring broader powers, the extent of a state's subpoena power
+and its accompanying subpoena duces tecum power is coterminous with its
+borders.  (See 97 C.J.S., Witnesses, S 17, p. 367, S 23, p. 375, S 25, p.
+380;  81 Am.Jur.2d, Witnesses, S 8, p. 32, S 14, p. 39.)
+
+However, the Allee court notes that the "state-border" limitation on
+subpoena power has not been extended to local branches of national
+corporations who are subpoenaed to deliver documents which are out-of-state.
+Therefore, even under Allee, if a subpoena was issued to an  Enron entity
+within California that possessed responsive documents, that Enron entity may
+be obligated to respond.  See Boal v. Price Waterhouse & Co. (1985) 165
+Cal.App.3d 806.
+
+Therefore, if a subpoena is issued which requires the attendance of an
+out-of-state officer of Enron, Enron has a very good argument that that
+witness is not obligated to attend under C.C.P. 1989.  It also seems
+probable that, under Amoco and Allele cited above, if a subpoena is served
+on an Enron custodian of records who is employed by a non-California Enron
+entity, the subpoena may be invalid.  However, if a subpoena seeking the
+production of documents is served on the custodian of records (or someone
+similarly situated) who is employed by an Enron entity that possesses
+responsive documents and is subject to personal jurisdiction in California,
+that Enron entity most likely is obligated to produce the documents.  While
+it is an open question, Enron can certainly argue that the custodian of
+records employed by an Enron entity in California would only be required to
+produce the Enron documents in the possession of the Enron California
+entity.  (This question is addressed somewhat in the commentary on the
+C.C.P. 2020 statutory scheme, see below, but is still open.)
+
+
+ (b)  Subpoenas against out-of-state residents under C.C.P. 2020 et
+seq.
+
+An additional threshold question regarding the territorial effect of this
+subpoena concerns whether it is should be considered a deposition subpoena.
+The question is:  If the legislative subpoena was treated as a "deposition
+subpoena," would a court deciding the enforceability of a legislative
+subpoena treat Enron as a "party" or as a "non-party"?
+
+The rules governing the reach of discovery in California are obviously
+different for the two.  The deposition of a party or party-affiliated
+witness may be noticed (without a subpoena) for a place within 75 miles of
+the witness' residence.  It is unclear how a court would resolve this issue.
+After all, if a court was resolving the issue at all, an Enron entity will
+have appeared before it. and would be a "party."  However, it seems
+moderately more likely that the court would treat Enron's obligations under
+the legislative committee subpoena as similar to its obligations if it was
+served with a "non-party" subpoena.
+
+There are three types of "deposition subpoena":  a "testimony only subpoena"
+(requires only the attendance and testimony of the witness), a "business
+records subpoena" (requires only the production of business records) and a
+"records and testimony subpoena" (requires both -- also formerly called
+subpoena duces tecum).  The second of these is the most relevant to Enron.
+
+The attendance of an non party out-of-state witness or the production of
+documents can be compelled only under the law of the place where the
+deposition is to be taken.  C.C.P. 2026 (b)(2).  Specifically, C.C.P.
+2026(b)(2) provides "If the deponent is not a party to the action or an
+officer, director, managing agent, or employee of a party, a party serving a
+deposition notice under this section shall use any process and procedures
+required and available under the laws of the state, territory, or insular
+possession where the deposition is to be taken to compel the deponent to
+attend and to testify, as well as to produce any document or tangible thing
+for inspection, copying, and any related activity."
+
+Some states issue subpoenas routinely, some require a showing of materiality
+or relevancy, and some require a commission from the court where the action
+is pending.    This question will depend on the law of the state when the
+custodian of records resides.
+
+Regarding the question of whether the service of a deposition subpoena on an
+in-state custodian of records would compel the production of out-of-state
+documents.  Weil & Brown, Rutter Group, California Practice Guide: Civil
+Procedure Before Trial at 5:540.4 notes:
+
+"It is unclear whether service of a "business records" subpoena on a
+nonparty corporation in California compels production of its records located
+outside the state. ... C.C.P. 2020(d) requires that the subpoena be directed
+to the records "custodian" (or someone authorized to certify the records).
+Whether "custodian" requires actual custody of the records is unclear. If it
+does, serving an officer or agent in California would not compel production
+of business records located elsewhere. The result is different where a
+"records and testimony" subpoena is used. That procedure extends to records
+in control of the subpoenaed party, not merely in his or her custody."
+
+
+
+
+=======================================================
+This email message is for the sole use of the intended recipient(s) and may 
+contain confidential and privileged information. Any unauthorized review, 
+use, disclosure or distribution is prohibited. If you are not the intended 
+recipient, please contact the sender by reply email and destroy all copies of 
+the original message.
+
+To reply to our email administrator directly, send an email to 
+postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+

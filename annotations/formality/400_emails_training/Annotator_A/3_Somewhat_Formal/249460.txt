@@ -1,0 +1,24 @@
+Message-ID: <9638605.1075842120070.JavaMail.evans@thyme>
+Date: Thu, 18 May 2000 03:09:00 -0700 (PDT)
+From: carol.clair@enron.com
+To: john.suttle@enron.com
+Subject: Southern Company
+Cc: susan.flynn@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: susan.flynn@enron.com
+X-From: Carol St Clair
+X-To: John Suttle
+X-cc: Susan Flynn
+X-bcc: 
+X-Folder: \Carol_StClair_Dec2000_1\Notes Folders\Sent
+X-Origin: STCLAIR-C
+X-FileName: cstclai.nsf
+
+John:
+Please send Susan Flynn contact information for this counterparty so that we 
+can send them our form of CA for the financial info that they intend to give 
+us.  I'm assuming that this is in connection with swaps that we will be doing 
+with them.  If there is anything else that we need to describe in the CA 
+please let Susan know.  Thanks.

@@ -1,0 +1,27 @@
+Message-ID: <31099296.1075840358780.JavaMail.evans@thyme>
+Date: Tue, 8 Jan 2002 04:38:23 -0800 (PST)
+From: mbx_iscinfra@enron.com
+To: tammy.marcontell@enron.com, sally.beck@enron.com, kerry.roper@enron.com, 
+	s..galvan@enron.com, tahnee.stall@enron.com
+Subject: \\spr1inf1\sapfiles\ifout\04000\20020108-DENWW.XLS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: mbx_iscinfra@enron.com@ENRON
+X-To: Marcontell, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMARCONT>, Beck, Sally </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SBECK>, Roper, Kerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KROPER>, Galvan, Michael S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MGALVAN>, Stall, Tahnee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TSTALL>
+X-cc: 
+X-bcc: 
+X-Folder: \sbeck\Inbox
+X-Origin: BECK-S
+X-FileName: sally beck 1-28-02.pst
+
+PLEASE DO NOT RESPOND TO THIS E-MAIL--THIS ACCOUNT IS NOT MONITORED
+
+AP User:
+
+Attached is/are the payment proposal(s) for your business unit.  Please review and forward to your approver(s)/CAO.
+
+
+Thank you.
+SAP AP Team
+ - 20020108-DENWW.XLS 

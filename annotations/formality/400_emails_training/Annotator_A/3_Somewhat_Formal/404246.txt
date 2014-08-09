@@ -1,0 +1,35 @@
+Message-ID: <13039294.1075852154411.JavaMail.evans@thyme>
+Date: Mon, 1 Oct 2001 00:00:03 -0700 (PDT)
+From: exchange.administrator@enron.com
+To: craig.dean@enron.com
+Subject: WARNING:  Your mailbox is approaching the size limit
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Exchange System Administrator
+X-To: Dean, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CDEAN2>
+X-cc: 
+X-bcc: 
+X-Folder: \CDEAN2 (Non-Privileged)\Dean, Craig\Inbox
+X-Origin: DEAN-C
+X-FileName: CDEAN2 (Non-Privileged).pst
+
+This warning is sent automatically to inform you that your mailbox is approaching the maximum size limit.
+Your mailbox size is currently 75421 KB.
+
+Mailbox size limits:
+
+	When your mailbox reaches 75000 KB you will receive this message.To check the size of your mailbox: 
+
+  Right-click the mailbox (Outlook Today), 
+  Select Properties and click the Folder Size button. 
+  This method can be used on individual folders as well. 
+
+To make more space available, delete any items that are no longer needed such as Sent Items and Journal entries.  
+
+You must empty the Deleted Items folder after deleting items or the space will not be freed. 
+
+To turn Journaling off, 
+ click Tools | Options | Journaling Options and de-select all items. 
+
+See client Help for more information.

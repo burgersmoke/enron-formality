@@ -1,0 +1,23 @@
+Message-ID: <4523363.1075840488861.JavaMail.evans@thyme>
+Date: Wed, 29 May 2002 12:07:43 -0700 (PDT)
+From: kevin.brady@enron.com
+To: rita.wynne@enron.com
+Subject: ENA NNG Demarc APE Revision
+Cc: donna.greif@enron.com, chris.germany@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: donna.greif@enron.com, chris.germany@enron.com
+X-From: Brady, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KBRADY>
+X-To: Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RWYNNE>
+X-cc: Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgerman>
+X-bcc: 
+X-Folder: \ExMerge - Germany, Chris\Bankrupt
+X-Origin: GERMANY-C
+X-FileName: chris germany 6-25-02.pst
+
+Rita/Chris,
+
+     I apologize to you guys for the earlier correspondence, the volumes are not scheduled volumes, and therefore we should zero out the 1-4th and the 31st. If anyone has any questions please contact me.
+
+Kevin Brady

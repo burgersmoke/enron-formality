@@ -1,0 +1,36 @@
+Message-ID: <15163426.1075854844098.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 14:14:14 -0700 (PDT)
+From: m..presto@enron.com
+To: d..baughman@enron.com
+Subject: FW: NJ Utilities RFP
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KPRESTO>
+X-To: Baughman, Edward D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebaughm>
+X-cc: 
+X-bcc: 
+X-Folder: \Presto, Kevin M (Non-Privileged)\Presto, Kevin M.\Sent Items
+X-Origin: Presto-K
+X-FileName: Presto, Kevin M (Non-Privileged).pst
+
+Who is working on this?
+
+ -----Original Message-----
+From: 	Herndon, Rogers  
+Sent:	Thursday, July 12, 2001 2:07 PM
+To:	Presto, Kevin M.
+Cc:	Misra, Narsimha
+Subject:	NJ Utilities RFP
+
+Kevin -
+
+Narsimha and I were just discussing this RFP.  Who from your shop is going to spearhead this?  I understand that you need to be an LSE and I want to make sure you guys are in a position to respond as this is clearly a wholesale transaction.
+
+The article we read states that "the bidding will continue in rounds, with declining announced prices, until the number of tranches bid equals the total need for BGS service, signaling the close of the auction.  The price at which the auction closes for each utility will be the clearing price, which will be paid to all winning bidders supplying BGS load for the utility."
+
+This is confusing to us.  At first we thought this meant that bids would be rewarded in rounds and the last price should be the highest price and this would set the clearing price.  This would be crazy for utilities to issue an RFP in this manner.  Then on further review, it looks like tranches would be offered with prices declining - makes no sense to me.
+
+Do you have a copy of this solicitation - we would like to review because it could affect the price the utilities charge us to supply our load, and possibly incent us to go physical earlier.
+
+RH

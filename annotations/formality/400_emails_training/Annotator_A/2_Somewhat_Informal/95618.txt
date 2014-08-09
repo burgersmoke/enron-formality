@@ -1,0 +1,39 @@
+Message-ID: <13252713.1075857589783.JavaMail.evans@thyme>
+Date: Fri, 15 Sep 2000 10:29:00 -0700 (PDT)
+From: john.arnold@enron.com
+To: david.forster@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Arnold
+X-To: David Forster
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Dec2000\Notes Folders\Sent
+X-Origin: Arnold-J
+X-FileName: Jarnold.nsf
+
+Dave:
+A couple things about the limit orders:
+
+1:  When a customer opens up the limit order box, I think the time open 
+should default to 12 hours.  We want the orders open as long as possible.  
+Now, it is more work to keep the order open for 12 hours than for 1 hour.  
+Traditionally, limit orders are a day order, good for the entire trading 
+session unless specified otherwise.  
+
+2.  Today Pete had 13,000/ day on his bid because he was hit for small size.  
+When I tried to place a limit order, the quantity had to be in 5,000 
+increments of 13,000 (i.e. 3000, 8000, 18000...).  I could not overwrite the 
+quantity to be 15,000.  
+
+3.  Everytime a limit order is placed, an error message occurs on the system 
+saying error trade, price not available.
+
+4.  Is there a way to modify a limit order, such as changing the price, 
+without canceling it and resubmitting a new one?  If not, this would be a 
+valuable feature.
+
+Thx,
+John

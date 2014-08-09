@@ -1,0 +1,42 @@
+Message-ID: <3976993.1075859369710.JavaMail.evans@thyme>
+Date: Mon, 10 Dec 2001 12:42:17 -0800 (PST)
+From: patrick.brennan@enron.com
+To: michele.winckowski@enron.com, kent.miller@enron.com, kay.miller@enron.com, 
+	jo.williams@enron.com, sue.neville@enron.com, dari.dornan@enron.com, 
+	lynn.blair@enron.com, dan.fancler@enron.com, bob.chandler@enron.com, 
+	michael.bodnar@enron.com, preston.roobaert@enron.com, 
+	reyna.cabrera@enron.com, john.buchanan@enron.com, 
+	karen.brostad@enron.com, ranelle.paladino@enron.com
+Subject: RE: Offsystem Capacity
+Cc: steve.kirk@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.kirk@enron.com
+X-From: Brennan, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PBRENNAN>
+X-To: Winckowski, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mwincko>, Miller, Kent </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kmiller2>, Miller, Mary Kay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkmiller>, Williams, Jo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia3>, Neville, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snevill1>, Dornan, Dari </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddornan>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Fancler, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfancle>, Chandler, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bchandle>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Roobaert, Preston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Proobaer>, Cabrera, Reyna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rcabrer>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Brostad, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrosta>, Paladino, Ranelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpaladin>
+X-cc: Kirk, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skirk>
+X-bcc: 
+X-Folder: \Lynn_Blair_Jan2002\Blair, Lynn\Deleted Items
+X-Origin: Blair-L
+X-FileName: lblair (Non-Privileged).pst
+
+Michele, 
+Under the Accounting Procedures section, the second bullet states: "Northern will account for any costs of third party transportation service through general ledger Account 858 - Transmission and Compression of Gas by Others".  I propose that NNG use Account 859 - Other (Transmission) Expense rather than Account 858 for these third party transportation service costs.  
+The Code of Regs states for Acct 858, "This account shall include amounts paid to others for the transmission and compression of gas of the utility."  However, it is specifically stated in the second paragraph of your Offsystem Capacity procedures, "Northern will not hold title to any natural gas stored or transported on a third party facility."  Thus, the use of Account 858 contradicts NNG's intent of not taking possession of the gas.  
+Also, the use of Account 859  for transportation service costs would be very consistent with the use of Account 824 for storage service costs.  The Code of Regs description of the types of expenses to be included in each account is almost identical with the exception of the words "storage" and "transmission system", to wit,
+"824 - Other expenses:  This account shall include the cost of labor, material used and expenses incurred in operating underground storage plant, and other underground storage operating expenses, not includible in any of the foregoing accounts, including research, development, and demonstration expenses."
+"859 - Other expenses:  This account shall include the cost of labor, material used and expenses incurred in operating transmission system equipment and other transmission system expenses not includible in any of the foregoing accounts, including research, development, and demonstration expenses."
+pmb
+
+ -----Original Message-----
+From: 	Winckowski, Michele  
+Sent:	Monday, December 03, 2001 1:12 PM
+To:	Miller, Kent; Miller, Mary Kay; Williams, Jo; Neville, Sue; Dornan, Dari; Blair, Lynn; Fancler, Dan; Chandler, Bob; Brennan, Patrick; Bodnar, Michael; Roobaert, Preston; Cabrera, Reyna; Buchanan, John; Brostad, Karen; Paladino, Ranelle
+Cc:	Kirk, Steve
+Subject:	Offsystem Capacity
+
+
+	Attached are the revised Procedures for Offsystem Capacity.  I have incorporated the comments from several meetings and discussion with various individuals.  Please review and provide comments.  The final version of these procedures will be forwarded to NNG's executive management for approval.  Therefore, please provide comments by COB Friday, December 9th.  Thanks MW
+
+	 << File: offsystem proc.doc >>  << File: OFFSYSTEM CONTRACT APPROVAL levels.doc >> 

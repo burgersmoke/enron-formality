@@ -1,0 +1,36 @@
+Message-ID: <14679748.1075853098271.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 13:55:02 -0700 (PDT)
+From: facundo.caminos@enron.com
+To: tracy.greene@enron.com
+Subject: Co 553
+Cc: mary.fischer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mary.fischer@enron.com
+X-From: Caminos, Facundo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FCAMINOS>
+X-To: Greene, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Twoodar>
+X-cc: Fischer, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mfischer>
+X-bcc: 
+X-Folder: \MFISCHER (Non-Privileged)\Fischer, Mary\Deleted Items
+X-Origin: Fischer-M
+X-FileName: MFISCHER (Non-Privileged).pst
+
+Tracy,
+
+
+After our September close Company 553 (Enron Power and Marketing, Inc)
+ Current SIT Liability Account (30051000)  was off by $1,465,400. In April, $1,500,200 PA 
+Tax was booked to the Franchise Tax Account (59002000). Out of the $1,500,200, only 
+$34,600 was attributed to  Franchise Tax and the remaining $1,465,400 was attrebuted to the Pennsylvania 
+Income tax.  We need to Debit the Current SIT Liability Account (30051000) for $1,465,400 and 
+Credit the Franchise Tax Expense Account (5002000) for $1,465,200. 
+
+
+If you have any questions call me at extension X-54771.
+
+
+
+					                       Thanks,
+
+						      Facundo Caminos

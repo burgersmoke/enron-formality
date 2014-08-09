@@ -1,0 +1,23 @@
+Message-ID: <827622.1075855611809.JavaMail.evans@thyme>
+Date: Wed, 14 Mar 2001 13:41:00 -0800 (PST)
+From: mike.grigsby@enron.com
+To: tori.kuykendall@enron.com
+Subject: PG&E Tpock phys forward description
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike Grigsby
+X-To: Tori Kuykendall
+X-cc: 
+X-bcc: 
+X-Folder: \Michael_Grigsby_Jun2001\Notes Folders\Sent
+X-Origin: Grigsby-M
+X-FileName: mgrigsb.nsf
+
+The index products look great.  Can you have the same constraint language 
+included on the PG&E Topock location for creating the phys forward (fixed 
+price) product?  Let me know when that is done.
+
+Thank you.
+
+Mike

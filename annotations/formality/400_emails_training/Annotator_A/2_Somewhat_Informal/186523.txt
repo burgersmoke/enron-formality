@@ -1,0 +1,66 @@
+Message-ID: <30208379.1075844460659.JavaMail.evans@thyme>
+Date: Wed, 29 Mar 2000 03:48:00 -0800 (PST)
+From: ted.murphy@enron.com
+To: bryan.seyfried@enron.com, gary.hickerson@enron.com
+Subject: Policy and Procedures regarding Trading
+Cc: jeff.kinneman@enron.com, sheila.glover@enron.com, oliver.gaylard@enron.com, 
+	david.port@enron.com, samantha.davidson@enron.com, 
+	nicholas.stephan@enron.com, paul.simons@enron.com, 
+	sara.shackleton@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.kinneman@enron.com, sheila.glover@enron.com, oliver.gaylard@enron.com, 
+	david.port@enron.com, samantha.davidson@enron.com, 
+	nicholas.stephan@enron.com, paul.simons@enron.com, 
+	sara.shackleton@enron.com
+X-From: Ted Murphy
+X-To: Bryan Seyfried, Gary Hickerson
+X-cc: Jeff Kinneman, Sheila Glover, Oliver Gaylard, David Port, Samantha T Davidson, Nicholas J Stephan, Paul Simons, Sara Shackleton
+X-bcc: 
+X-Folder: \Sara_Shackleton_Dec2000_June2001_1\Notes Folders\Hickerson
+X-Origin: SHACKLETON-S
+X-FileName: sshackle.nsf
+
+ The reason I feel compelled to put this in writing is that there is so much 
+confusion regarding policy and procedures.  The distribution of practices 
+around the firm is always surprising.  You are not being singled- there are 
+just too many people who need to be informed to preclude a nice phone call 
+from me.  This is not an exhaustive list, however, before we get on a sloppy 
+road there are a few things that need to  be addressed immediately:
+
+Only authorized traders may transact on behalf of Enron.  That means that the 
+authorized trader memo is in my hands. 
+Only Enron employees can be authorized traders.
+All transactions will be done on recorded phone lines in Enron offices.
+All transactions will be booked to the risk management system by the COB the 
+day in which they are done.
+All trades will be confirmed by us within 24 hours.
+The person authorized by Greg and Rick to be in charge of the commodity group 
+is responsible for the business front- to- back.  This includes p&l , 
+position reporting, VAR, and systems.  As it relates to EnronCredit.com 
+effort, this is Bryan Seyfreid.   
+
+To clear up any confusion on this issue, Jeff, Rick and Greg have met 
+extensively with Bryan and John and are fully supportive of the effort - as 
+long as it continues to follow the rules and the "spirit" of the approval.  
+The "spirit" , as I interpret it, is that the effort is to be complementary 
+to the Financial Trading desk and RAC/Credit and not direct competition.  
+That being said, in typical Enron fashion, there is enough grey for some 
+overlap, so every one has to play nice.
+
+While I do have as definitive an opinion on this as above, regarding the 
+control of trading through certain funnels. it has been explicit practice to 
+funnel certain types of transactions  through "central desks".   This is a 
+good control mechanism even if it is a bit cumbersome.  MY preference is to 
+put pressure on the "central desk" to provide execution services, structuring 
+advice and operational help rather than building ones own.  As it relates to 
+the Credit effort, it appears doubly important due to SFA considerations.  
+Once again, I have a strong preference that we tread nowhere near the line 
+and use the procedures established by Gary Hickerson's group to avoid any 
+confusion and avoid an opportunity for erroneous human interpretation of 
+complex issues.  Additional operational complexity does not appear to be 
+sufficient justification for a more amorphous road map.
+
+All comments are appreciated 
+Ted

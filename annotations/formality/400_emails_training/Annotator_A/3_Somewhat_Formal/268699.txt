@@ -1,0 +1,72 @@
+Message-ID: <2499102.1075841525121.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 08:23:50 -0700 (PDT)
+From: edismail@incident.com
+To: edis-by-email@incident.com
+Subject: [EDIS]  EARTHQUAKE INFORMATION [News: Statewide]
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: EDIS Email Service <edismail@incident.com>
+X-To: EDIS-by-Email@incident.com
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Salisbury, Holden\Inbox
+X-Origin: SALISBURY-H
+X-FileName: holden salisbury 6-26-02.PST
+
+PRELIMINARY EARTHQUAKE REPORT
+Rapid Earthquake Location Service
+U.S. Geological Survey, Menlo Park, California
+U.C. Berkeley Seismological Laboratory, Berkeley, California
+
+Version 2: Updates lower and earlier versions of this earthquake report
+
+A MINOR EARTHQUAKE OCCURRED AT 08:07 AM PDT Friday, Jul 06, 2001.
+THE MAGNITUDE 3.7 (ML) EVENT IS LOCATED   4 MILES E   OF ROHNERT PARK, CA
+THE HYPOCENTRAL DEPTH IS   4.4 MILES.
+
+This event has been reviewed by Jim Luetgert-USGS.
+
+PRINCIPAL EARTHQUAKE PARAMETERS
+_______________________________
+
+Magnitude              : 3.70  ML
+Event Date & Time      : 07/06/2001   08:07:31 AM PDT
+07/06/2001   15:07:31    UTC
+Location               : 38.3443 N, 122.6297 W
+            : (38 deg. 20.66 min. N, 122 deg. 37.78 min. W)
+Depth                  :    7.1 km. deep (   4.4 miles)
+Location Quality       : Excellent
+
+6 km (  4 miles) E   ( 85 degrees) of Rohnert Park, CA
+10 km (  6 miles) WSW (256 degrees) of Glen Ellen, CA
+13 km (  8 miles) N   (  2 degrees) of Petaluma, CA
+13 km (  8 miles) SE  (146 degrees) of Santa Rosa, CA
+16 km ( 10 miles) WNW (291 degrees) of Sonoma, CA
+
+ADDITIONAL EARTHQUAKE PARAMETERS
+________________________________
+
+number of phases             : 116
+rms misfit                   :   0.14 seconds
+horizontal location error    :   0.2  km
+vertical location error      :   0.4  km
+maximum azimuthal gap        :  39    degrees
+distance to nearest station  :   5.   km
+event ID:   40124461
+
+
+EDIS-07-06-01 0820 PDT
+
+
+---------------------------------------------------------
+To update or terminate your subscription to this email service
+visit our webpage at http://www.incident.com/edismail.html.
+
+EDIS is operated by the Governor's Office of Emergency Services, 
+State of California. This email relay is offered by incident.com 
+as a public service. Because of the complexity of this system and
+its dependence on other systems, we cannot be responsible for 
+delays or failures in transmission. 
+---------------------------------------------------------
+

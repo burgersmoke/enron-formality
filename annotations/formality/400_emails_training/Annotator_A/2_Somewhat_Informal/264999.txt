@@ -1,0 +1,36 @@
+Message-ID: <18387208.1075841733899.JavaMail.evans@thyme>
+Date: Wed, 31 Jan 2001 08:24:00 -0800 (PST)
+From: stephanie.piwetz@enron.com
+To: kate.symes@enron.com
+Subject: missing richter trades
+Cc: evelyn.metoyer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: evelyn.metoyer@enron.com
+X-From: Stephanie Piwetz
+X-To: Kate Symes
+X-cc: Evelyn Metoyer
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Deal communication\Deal discrepancies
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate-
+
+prebon has two other trades:
+
+Enron buys Merrill
+Q2 
+Np 15
+25 mws
+280.00
+
+
+Enron sells Santa Clara SVP
+2/2-2/28
+np 15
+270.00
+
+thanks 
+sp
