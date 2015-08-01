@@ -52,6 +52,10 @@ File Contents:
         2 annotators annotated for the presence of a request.  
         In these files, a '1' right of the file name indicates a request, otherwise there was no request
         
+/furcoat
+
+	Python scripts for generating the feature vectors for the formality classifier.  
+		
 /mysql/
 
     /queries/
@@ -102,6 +106,12 @@ File Contents:
     
         This script was used in conjunction with Mallet's output from running against the 
         University of Sheffield Personal vs. Business dataset to derive the results
+		
+/ scripts
+	
+	Lots of random scripts for Wordnik informal word API scraping, preprocessing, data reporting, etc.
+	
+	NOTE : It's been a LOOOOONG time since looking at these so please use at your own risk!
         
 /enron_employee_positions/
 
