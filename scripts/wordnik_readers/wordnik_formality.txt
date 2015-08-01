@@ -1,0 +1,17 @@
+alot={u'misspelling': 2}
+articles={u'slang': 1}
+balls={u'slang': 4}
+definately={u'misspelling': 1}
+desmond={u'slang': 1}
+enroute={u'misspelling': 1}
+guts={u'slang': 2}
+guys={u'colloquial': 2}
+holla={u'colloquial': 2}
+jeff={u'slang': 1}
+lots={u'colloquial': 2}
+ph={u'misspelling': 1}
+privates={u'informal': 1}
+rsvp={u'informal': 1}
+words={u'informal': 1}
+ya={u'informal': 2}
+years={u'colloquial': 1}

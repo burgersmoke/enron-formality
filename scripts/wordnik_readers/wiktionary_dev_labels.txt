@@ -1,0 +1,16 @@
+alot={u'misspelling': 1}
+definately={u'misspelling': 1}
+dickhead={u'colloquial': 1, u'vulgar': 1}
+enroute={u'misspelling': 1}
+guys={u'colloquial': 1}
+ha={u'interjection': 1}
+hello={u'interjection': 1}
+hey={u'interjection': 1}
+holla={u'colloquial': 1}
+jeez={u'interjection': 1}
+la={u'interjection': 1}
+lots={u'colloquial': 1}
+oh={u'interjection': 1}
+ph={u'misspelling': 1}
+shit={u'vulgar': 1}
+ya={u'interjection': 1}

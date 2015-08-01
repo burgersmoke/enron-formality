@@ -1,0 +1,1360 @@
+a
+abdominal
+able
+about
+above
+acceptable
+acceptance
+access
+account
+acquire
+across
+act
+activity
+actual
+actually
+add
+address
+addresses
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+administrator
+adopted
+advise
+advised
+affection
+affiliate
+affiliated
+affiliates
+after
+afternoon
+again
+agent
+ago
+agree
+agreed
+agreement
+airport
+all
+allow
+allowed
+almost
+alot
+LABEL TEXT ENTRY : misspelling
+LABEL TEXT ENTRY : misspelling
+already
+also
+aluminum
+WHOA!!  This definition couldnt parse properly with =
+always
+am
+amendments
+an
+and
+anonymous
+another
+answer
+any
+anyone
+anything
+anyway
+apparently
+appear
+application
+applies
+appreciate
+appreciated
+approaching
+approval
+approved
+archive
+are
+arising
+around
+arranged
+arrive
+article
+articles
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : legal
+as
+ask
+asked
+asking
+assist
+assistance
+at
+attach
+attached
+attaching
+attachments
+attend
+attending
+attention
+attorney
+auction
+authorized
+autumn
+availability
+LABEL TEXT ENTRY : uncountable
+LABEL TEXT ENTRY : countable
+available
+aviary
+avoid
+away
+baby
+back
+bad
+balance
+balls
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : British
+LABEL TEXT ENTRY : slang
+bandwagon
+bandwidth
+bankruptcy
+bar
+bars
+LABEL TEXT ENTRY : sports
+LABEL TEXT ENTRY : sports
+based
+basis
+batch
+batched
+bath
+be
+beak
+been
+before
+beginning
+begins
+behalf
+behavior
+being
+believe
+below
+bent
+berry
+best
+bet
+better
+between
+big
+biggest
+LABEL TEXT ENTRY : superlative
+binding
+bird
+bit
+black
+blend
+block
+boat
+body
+bond
+booger
+both
+bottom
+bound
+box
+bragging
+break
+breakfast
+bridge
+brighten
+broadband
+browser
+bug
+built
+but
+button
+buying
+LABEL TEXT ENTRY : present participle
+buzz
+by
+c
+ca
+cable
+call
+called
+calling
+cam
+campuses
+can
+cancelled
+LABEL TEXT ENTRY : of a mail item
+capacity
+card
+care
+case
+cash
+catch
+catching
+category
+caught
+caused
+cc
+cell
+center
+certain
+certainly
+certified
+chance
+change
+changed
+charged
+charter
+check
+choose
+chosen
+cigarettes
+circumstances
+clasped
+click
+clicking
+clock
+close
+collateral
+collection
+college
+combined
+LABEL TEXT ENTRY : past
+come
+comes
+coming
+commence
+comments
+commercial
+committee
+communicated
+LABEL TEXT ENTRY : past
+companies
+company
+comparison
+complete
+compliments
+LABEL TEXT ENTRY : plural
+composing
+concentrates
+LABEL TEXT ENTRY : third-person singular
+conceptual
+concert
+conference
+confidential
+confirm
+conflicts
+congregation
+connected
+consequences
+consider
+considering
+consistent
+consulted
+consulting
+LABEL TEXT ENTRY : present participle
+contact
+contain
+contained
+LABEL TEXT ENTRY : past
+content
+continue
+contract
+contracts
+contrary
+control
+convenience
+conversations
+conversion
+convertible
+coons
+coordinate
+copied
+copies
+copper
+copy
+core
+correct
+could
+counsel
+count
+counter
+counterparty
+LABEL TEXT ENTRY : finance
+LABEL TEXT ENTRY : legal
+coverage
+crazy
+create
+credit
+crow
+crowd
+curious
+current
+currently
+dad
+dark
+data
+date
+dated
+dates
+dating
+day
+days
+deal
+decision
+decisions
+deductions
+deemed
+default
+deferrals
+definately
+LABEL TEXT ENTRY : misspelling
+definitive
+degree
+delayed
+delete
+delightful
+delivered
+delivery
+department
+describe
+desk
+determined
+develop
+developers
+dial
+did
+difference
+dinner
+direct
+directly
+discharge
+disclosure
+discuss
+discussed
+LABEL TEXT ENTRY : past
+distribution
+do
+doctor
+doctoring
+LABEL TEXT ENTRY : present participle
+document
+documents
+does
+doing
+done
+WHOA!!  This definition couldnt parse properly with =
+down
+downgrade
+download
+draft
+drafted
+LABEL TEXT ENTRY : nautical
+LABEL TEXT ENTRY : US
+drafting
+drafts
+drinkers
+drinking
+drinks
+LABEL TEXT ENTRY : cricket
+duct
+due
+dump
+during
+duties
+LABEL TEXT ENTRY : plural
+duty
+e
+each
+earlier
+LABEL TEXT ENTRY : comparative
+early
+earnings
+easy
+eating
+educational
+effort
+efforts
+either
+electric
+else
+elsewhere
+email
+LABEL TEXT ENTRY : uncountable
+LABEL TEXT ENTRY : countable
+enclosed
+LABEL TEXT ENTRY : music
+enclosing
+encourages
+encouraging
+end
+ended
+enforceable
+enforcement
+engineering
+english
+LABEL TEXT ENTRY : US
+enhancements
+LABEL TEXT ENTRY : plural
+enroute
+LABEL TEXT ENTRY : misspelling
+ensure
+entities
+equity
+errors
+LABEL TEXT ENTRY : third-person singular
+LABEL TEXT ENTRY : plural
+established
+estimate
+estoppel
+etc
+even
+evening
+event
+ever
+every
+everyone
+everything
+evidence
+exactly
+except
+exchange
+execute
+execution
+exercise
+expecting
+LABEL TEXT ENTRY : present participle
+experience
+extend
+f
+faces
+facilities
+facility
+fact
+falls
+family
+fast
+favor
+fax
+features
+feedback
+feeder
+feeders
+feel
+feeling
+few
+fiber
+field
+fields
+figure
+fill
+final
+finalised
+find
+fine
+first
+fishing
+flat
+flight
+flood
+floor
+floors
+fly
+flying
+follow
+followed
+following
+follows
+for
+foreign
+form
+forward
+found
+founder
+free
+friends
+frigging
+from
+full
+fully
+fun
+functions
+fundraising
+funds
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+funny
+furiously
+further
+future
+gain
+games
+general
+generally
+get
+getting
+LABEL TEXT ENTRY : present participle
+gifts
+give
+given
+go
+goes
+going
+golden
+golf
+good
+got
+gotten
+graduate
+grave
+gray
+great
+green
+group
+guarantee
+guaranty
+guess
+guessing
+LABEL TEXT ENTRY : present participle
+guide
+guillotine
+gull
+guts
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : slang
+guy
+guys
+LABEL TEXT ENTRY : colloquial
+LABEL TEXT ENTRY : colloquial
+ha
+had
+handled
+happened
+LABEL TEXT ENTRY : past
+happy
+hard
+has
+hate
+hating
+have
+having
+he
+header
+headlines
+hear
+heard
+hearing
+heavy
+held
+hell
+hello
+help
+helpful
+her
+here
+hereby
+hereto
+hey
+highly
+him
+himself
+hired
+LABEL TEXT ENTRY : past
+his
+hit
+hold
+holdings
+holds
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+holiday
+holla
+LABEL TEXT ENTRY : colloquial
+LABEL TEXT ENTRY : colloquial
+hollow
+home
+homecoming
+hope
+hoping
+host
+hot
+hours
+LABEL TEXT ENTRY : plural
+house
+housing
+how
+hrs
+LABEL TEXT ENTRY : plural
+humor
+hurdles
+hyperlinks
+i
+ic
+idea
+if
+iid
+LABEL TEXT ENTRY : statistics
+LABEL TEXT ENTRY : probability theory
+immediate
+implies
+important
+in
+incensed
+include
+included
+includes
+including
+incorrect
+increased
+independent
+indicating
+indirect
+info
+inform
+information
+initial
+input
+insert
+inside
+inspirational
+instructed
+instruction
+intended
+interest
+interested
+interesting
+interests
+into
+intriguing
+inventory
+invested
+investment
+invitation
+invite
+invited
+invites
+invoices
+invoicing
+involved
+is
+island
+issue
+issues
+it
+its
+jealous
+jeff
+LABEL TEXT ENTRY : printing
+LABEL TEXT ENTRY : slang
+LABEL TEXT ENTRY : intransitive
+job
+join
+joke
+jump
+jumpstarts
+junk
+just
+keep
+keeping
+kept
+knew
+know
+landing
+language
+large
+larger
+LABEL TEXT ENTRY : comparative
+last
+later
+latest
+law
+lead
+learned
+least
+leave
+left
+legal
+lent
+lessons
+let
+letter
+liability
+liable
+life
+lifestyle
+light
+like
+lil
+lines
+LABEL TEXT ENTRY : fortifications
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : shipbuilding
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : US
+LABEL TEXT ENTRY : plural
+link
+list
+listed
+LABEL TEXT ENTRY : British
+LABEL TEXT ENTRY : of a building
+lists
+LABEL TEXT ENTRY : plural
+little
+live
+lives
+living
+local
+location
+login
+logo
+lonely
+long
+longer
+LABEL TEXT ENTRY : comparative
+LABEL TEXT ENTRY : comparative
+look
+looked
+looking
+LABEL TEXT ENTRY : present participle
+looks
+LABEL TEXT ENTRY : plural only
+lot
+lots
+LABEL TEXT ENTRY : colloquial
+LABEL TEXT ENTRY : colloquial
+love
+loved
+low
+lunch
+made
+maggie
+maid
+mail
+main
+make
+makes
+LABEL TEXT ENTRY : third-person singular
+man
+management
+manager
+mandate
+manicure
+manner
+many
+mapquest
+marketplace
+married
+material
+matter
+max
+may
+maybe
+me
+means
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : plurale tantum
+LABEL TEXT ENTRY : plurale tantum
+LABEL TEXT ENTRY : third-person singular
+meet
+meeting
+meetings
+members
+men
+mention
+mesquite
+message
+met
+might
+million
+mine
+miss
+missed
+mm
+money
+monitor
+monitoring
+LABEL TEXT ENTRY : present participle
+month
+monthly
+months
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : obsolete
+LABEL TEXT ENTRY : plurale tantum
+more
+morning
+mornings
+motor
+motors
+move
+moves
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : plural only
+LABEL TEXT ENTRY : third-person singular
+moving
+much
+muddy
+my
+myths
+name
+nature
+neck
+need
+needed
+needs
+negotiate
+neighborhood
+net
+never
+new
+news
+next
+nice
+night
+nights
+no
+nonspecific
+noon
+nor
+north
+not
+note
+notice
+notwithstanding
+now
+number
+observe
+of
+off
+offer
+office
+official
+officials
+on
+once
+one
+ongoing
+online
+only
+open
+opportunity
+option
+options
+or
+order
+ordinary
+original
+originally
+originals
+other
+others
+our
+out
+outcome
+outstanding
+over
+overcome
+own
+p
+pace
+pack
+package
+page
+paid
+pain
+parking
+part
+participants
+participate
+party
+passes
+past
+paste
+pay
+paying
+payroll
+pending
+penis
+people
+peoples
+per
+perfect
+performed
+LABEL TEXT ENTRY : past
+WHOA!!  This definition couldnt parse properly with =
+permitting
+person
+personal
+persuade
+pertaining
+phone
+photo
+pick
+picked
+picture
+pictures
+LABEL TEXT ENTRY : dated
+LABEL TEXT ENTRY : British
+piece
+pisses
+plan
+please
+pledged
+pm
+point
+policy
+popular
+positions
+positive
+possible
+post
+posted
+posting
+LABEL TEXT ENTRY : computing
+LABEL TEXT ENTRY : British
+postings
+postponed
+prefer
+prepare
+presence
+presented
+preserving
+LABEL TEXT ENTRY : present participle
+press
+pretty
+previously
+price
+prices
+pricing
+LABEL TEXT ENTRY : present participle
+prior
+priority
+private
+privates
+LABEL TEXT ENTRY : informal
+privileged
+probably
+problems
+procedures
+proceedings
+LABEL TEXT ENTRY : legal
+LABEL TEXT ENTRY : plural only
+LABEL TEXT ENTRY : of a society
+process
+product
+products
+profile
+program
+promote
+proper
+property
+proposal
+proposals
+provided
+provides
+provisions
+pulling
+LABEL TEXT ENTRY : present participle
+pursuit
+put
+question
+questions
+quick
+quickly
+quite
+raised
+rapacious
+rates
+rather
+read
+reads
+ready
+real
+really
+reason
+receipt
+receive
+received
+receiving
+LABEL TEXT ENTRY : present participle
+recipient
+recoup
+reel
+refer
+referenced
+LABEL TEXT ENTRY : past
+referred
+LABEL TEXT ENTRY : past
+refining
+LABEL TEXT ENTRY : present participle
+regarding
+rejected
+LABEL TEXT ENTRY : past
+relate
+release
+relevant
+relied
+remain
+reminders
+replace
+replaced
+replacing
+reply
+report
+reported
+LABEL TEXT ENTRY : past
+represent
+representative
+reps
+request
+requested
+LABEL TEXT ENTRY : past
+rescheduled
+reserved
+reserving
+resistance
+resolution
+respect
+respond
+response
+responsible
+rest
+results
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+resume
+return
+review
+reviewing
+revised
+revision
+revisions
+rid
+right
+rights
+river
+roll
+room
+ruined
+rulemaking
+s
+saddle
+said
+sailing
+same
+saved
+LABEL TEXT ENTRY : Christianity
+saw
+say
+schedule
+scheduled
+schedules
+scholarships
+school
+sea
+search
+second
+security
+see
+seem
+seems
+seen
+sees
+send
+sender
+senior
+sent
+seriously
+LABEL TEXT ENTRY : manner
+LABEL TEXT ENTRY : speech act
+served
+service
+services
+LABEL TEXT ENTRY : business
+LABEL TEXT ENTRY : economics
+several
+shall
+shareholder
+sharing
+she
+sheet
+sheets
+LABEL TEXT ENTRY : plural only
+shelf
+shipping
+shit
+shopping
+LABEL TEXT ENTRY : present participle
+shortly
+shot
+should
+showing
+side
+sides
+sign
+signed
+signing
+LABEL TEXT ENTRY : present participle
+simply
+since
+single
+site
+situation
+sleeping
+LABEL TEXT ENTRY : present participle
+sleeve
+slight
+small
+smaller
+LABEL TEXT ENTRY : comparative
+smelting
+LABEL TEXT ENTRY : metallurgy
+so
+sole
+some
+someone
+something
+sometime
+soon
+sounds
+southeast
+speaking
+specie
+specific
+spin
+spoke
+sponsored
+LABEL TEXT ENTRY : past
+sports
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+stage
+standardization
+standardized
+start
+stay
+steak
+steering
+LABEL TEXT ENTRY : present participle
+steps
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : third-person singular
+still
+stock
+stocks
+stop
+story
+stressed
+LABEL TEXT ENTRY : phonetics
+strictly
+strip
+stripped
+structure
+structuring
+stuck
+student
+stuff
+sub
+subject
+subscription
+subsequent
+subsidiaries
+such
+suggested
+suit
+summer
+supply
+support
+sure
+surprise
+survive
+suspicious
+swallowed
+swaps
+system
+take
+taken
+takes
+taking
+talk
+talked
+tape
+targeting
+tax
+taxes
+team
+tell
+ten
+term
+terminated
+terms
+than
+thank
+thanks
+that
+the
+their
+them
+then
+there
+these
+they
+thing
+things
+think
+third
+this
+those
+though
+thought
+thoughts
+thousands
+threat
+threats
+three
+through
+thus
+ticket
+time
+times
+timing
+tired
+to
+today
+together
+told
+toll
+tomorrow
+too
+tool
+topics
+total
+touch
+tour
+track
+trading
+LABEL TEXT ENTRY : present participle
+traffic
+trailer
+transcript
+transfers
+transit
+transition
+transmission
+trashed
+treated
+LABEL TEXT ENTRY : past
+trip
+trouble
+true
+try
+trying
+tuft
+turning
+two
+type
+u
+under
+understanding
+unfortunate
+universe
+unrealistic
+unrecognized
+unsubstantiated
+until
+up
+update
+updates
+upgrade
+upon
+us
+use
+users
+using
+LABEL TEXT ENTRY : present participle
+utilize
+valuation
+value
+vehicle
+verified
+verify
+version
+versions
+versus
+very
+via
+view
+vintage
+volunteer
+volunteers
+wait
+want
+wanted
+LABEL TEXT ENTRY : legal
+was
+water
+way
+we
+web
+website
+week
+weekend
+weeks
+weird
+well
+went
+were
+what
+whatever
+when
+whenever
+where
+wherein
+which
+while
+who
+whole
+will
+window
+winning
+winter
+wire
+wishes
+with
+withdraw
+within
+without
+witnessed
+women
+won
+wondered
+wonderful
+wonderfully
+wondering
+woody
+words
+LABEL TEXT ENTRY : plural only
+LABEL TEXT ENTRY : informal
+work
+working
+workload
+worksheets
+worst
+worth
+would
+writes
+LABEL TEXT ENTRY : third person singular
+writing
+wrong
+wrote
+ya
+LABEL TEXT ENTRY : informal
+LABEL TEXT ENTRY : informal
+year
+years
+LABEL TEXT ENTRY : plural
+LABEL TEXT ENTRY : colloquial
+yesterday
+you
+young
+your
+yourself

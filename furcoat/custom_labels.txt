@@ -1,0 +1,3 @@
+yea={u'informal': 1}
+yeah={u'informal': 1}
+hey={u'informal': 1}
