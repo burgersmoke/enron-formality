@@ -1,4 +1,0 @@
-booger={u'slang': 1}
-guys={u'colloquial': 1}
-joe={u'informal': 1}
-shit={u'vulgar': 1, u'slang': 1}
